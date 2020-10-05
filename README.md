@@ -1,6 +1,9 @@
 # beautify-stats
 This is a simple visuallizing tool I created using Javascript, HTML, and CSS with the main purpose of enhancing raw / boring stats for integration into presentations and reports.
 
+See it in actions:
+https://jimbob6272.github.io/beautify-stats/
+
 The idea was to create an easy way to quickly generate an interesting visual using a few simple stats.
 
 Like this:
