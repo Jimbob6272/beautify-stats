@@ -100,17 +100,15 @@ form button:hover {
 .stat {
     margin: 2rem .5rem;
     font-size: 1.5rem;
-    float:left;
     display: inline-block;
     justify-content: space-between;
     align-items: center;
-    height: 300px;
-    width: 300px;
     text-align: center;
     border: 6px solid #16a085;
     border-radius: 15px;
     animation-name: fade-in;
     animation-duration: 2s;
+    max-width: 500px;
 }
 @keyframes fade-in {
     from {opacity:0;}
@@ -125,9 +123,9 @@ form button:hover {
 .stat h2 {
     color: #16a085;
     text-align: center;
-    padding: 1.25rem 1rem 0 1rem;
+    padding: 0rem 1rem;
     margin: .5rem 1rem 0 1rem;
-    font-size: 3em;
+    font-size: 2.5em;
     overflow-wrap: break-word;
 }
 
@@ -139,7 +137,6 @@ h2:nth-of-type(even) {
     color: #3e4c5a;
     font-size: 1.5em;
     font-weight: bold;
-    padding: 1rem;
-    line-height: 1.2em;
+    padding: 0 1rem 1rem 1rem;
 
 }
