@@ -8,7 +8,7 @@ The user can simply fill out the 2 fields with a number and a description and ge
 Like this:
 ![image](https://user-images.githubusercontent.com/23220306/95037600-82411b80-0699-11eb-9462-a63cb41d284d.png)
 
-I've added extra padding around the stat area to easily select the boxes using the screenshot tool of your choice.
+I added extra padding around the stat area to easily select the boxes using the screenshot tool of your choice.
 
 See it in actions:
 https://jimbob6272.github.io/beautify-stats/
